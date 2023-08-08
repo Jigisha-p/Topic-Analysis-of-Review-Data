@@ -67,3 +67,10 @@ number of topics
 - Name each of the identified topics
 - Create a table with the topic names and the top ten terms in each
 to present to the business
+
+### Setup and Installation:
+```bash
+pip install --upgrade pip
+pip install -r requirements.txt
+pip list
+```
