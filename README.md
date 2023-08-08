@@ -10,15 +10,6 @@ Amazon's product
 - To interpret the emerging topics using customer voice
 
 ### Prerequisites
-- Data exploration
-- POS tagging
-- Model creation
-- Python
-- Topic modeling
-- Linear discriminant analysis (LDA)
-- Natural language toolkit (NLTK)
-
-### Industry Relevance
 - Data exploration: It is used to find trends and patterns or to check
 assumptions by analyzing data with visual tools.
 - POS tagging: It is used in text analysis tools and algorithms as well as
@@ -30,7 +21,8 @@ learning.
 - Topic modeling: It is used to discover the themes that run through a
 corpus by analyzing the words of the original texts.
 - LDA: It is used as a preprocessing step in machine learning and it is
-mainly used for classification problems. • NLTK: It is a platform used for building Python programs that work
+mainly used for classification problems.
+- NLTK: It is a platform used for building Python programs that work
 with human language data for applications in statistical natural
 language processing (NLP).
 
